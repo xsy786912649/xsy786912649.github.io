@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xsy786912649.github.io/sitemap.xml
