@@ -159,8 +159,8 @@ li {
 }
 
 .profile-photo {
-  flex: 0 0 160px;
-  width: 160px;
+  flex: 0 0 180px;
+  width: 180px;
   height: auto;
   margin: 0;
   border-radius: 4px;
@@ -278,8 +278,8 @@ li {
   }
 
   .profile-photo {
-    flex-basis: 110px;
-    width: 110px;
+    flex-basis: 120px;
+    width: 120px;
   }
 
   .profile-block {
