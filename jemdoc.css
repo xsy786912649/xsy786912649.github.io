@@ -62,14 +62,14 @@ a:hover {
 }
 
 .site-title {
-  color: var(--color-heading);
+  color: #111111;
   font-size: 1.625rem;
-  font-weight: 300;
+  font-weight: 600;
   letter-spacing: -1px;
 }
 
 .site-title:visited {
-  color: var(--color-heading);
+  color: #111111;
 }
 
 .site-title:hover {
@@ -77,11 +77,11 @@ a:hover {
 }
 
 .site-title .accent-blue {
-  color: #2a7ae2;
+  color: #111111;
 }
 
 .site-title .accent-orange {
-  color: #e67e22;
+  color: #111111;
 }
 
 .site-nav {
