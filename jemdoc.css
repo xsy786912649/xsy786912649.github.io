@@ -165,18 +165,6 @@ li {
   margin-bottom: 9px;
 }
 
-.visitor-map {
-  width: 280px;
-  max-width: 100%;
-}
-
-.visitor-map img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border: 0;
-}
-
 .publication-intro {
   margin-bottom: 24px;
 }
