@@ -142,21 +142,22 @@ li {
   margin-bottom: 4px;
 }
 
-.profile-block::after {
-  display: table;
-  clear: both;
-  content: "";
+.profile-block {
+  display: flex;
+  align-items: center;
+  gap: 22px;
 }
 
 .profile-photo {
-  float: left;
-  width: 130px;
-  margin: 0 18px 12px 0;
+  flex: 0 0 160px;
+  width: 160px;
+  height: auto;
+  margin: 0;
   border-radius: 4px;
 }
 
 .profile-details {
-  padding-top: 4px;
+  margin: 0;
 }
 
 .experience-list li,
@@ -279,8 +280,12 @@ li {
   }
 
   .profile-photo {
-    width: 100px;
-    margin: 0 12px 8px 0;
+    flex-basis: 110px;
+    width: 110px;
+  }
+
+  .profile-block {
+    gap: 12px;
   }
 
   .year-content {
