@@ -278,11 +278,13 @@ li {
   }
 
   .profile-photo {
-    flex-basis: 120px;
-    width: 120px;
+    flex: none;
+    width: 160px;
   }
 
   .profile-block {
+    flex-direction: column;
+    align-items: flex-start;
     gap: 12px;
   }
 
