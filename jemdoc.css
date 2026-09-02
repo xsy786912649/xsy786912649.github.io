@@ -177,6 +177,10 @@ li {
   margin-bottom: 9px;
 }
 
+.review-list > li > ul {
+  margin-top: 8px;
+}
+
 .publication-intro {
   margin-bottom: 24px;
 }
